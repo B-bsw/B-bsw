@@ -1,4 +1,3 @@
-## NOTHING
 <div align='center'>
-  <img src='rezeGif.gif'  >
+  <img src='rezeGif.gif' alt='reze' >
 </div>
