@@ -12,7 +12,7 @@
   * MongoDB( basic ), MySql( basic )
 
 | Tools
-  * Git, Postman, Figma, Gradle
+  * Git, Postman, Figma, Gradle, Electon( basic )
 ##
 <div align='center'>
   <img src='rezeGif.gif' alt='reze' >
