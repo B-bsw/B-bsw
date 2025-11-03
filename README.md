@@ -1,3 +1,7 @@
+<div align='center'>
+  <img src='rezeGif.gif' alt='reze' >
+</div>
+
 ## My Stack
 | Programming
   * Java, JavaScript, TypeScript( learning ), Python( basic ), C ( basic )
@@ -13,7 +17,3 @@
 
 | Tools
   * Git, Postman, Figma, Gradle, Electon( basic )
-##
-<div align='center'>
-  <img src='rezeGif.gif' alt='reze' >
-</div>
