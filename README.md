@@ -4,15 +4,15 @@
 
 ## My Stack
 | Programming
-  * Java, JavaScript, TypeScript( learning ), Python( basic ), C ( basic )
+  * Java, JavaScript, TypeScript, Python( basic ), C ( basic )
 
 | Frontend Frameworks
   * Tailwind, Bootstrap, React, Nextjs, SolidJs
 
 | Backend Frameworks
-  * Express( learning ), Springboot( basic )
+  * Express, Springboot( basic )
 
-| Databases( learning )
+| Databases
   * MongoDB( basic ), MySql( basic )
 
 | Tools
