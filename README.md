@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='rezeGif.gif' alt='reze' >
+  <img src='_.gif' alt='reze' >
 </div>
 
 ## My Stack
