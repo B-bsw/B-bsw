@@ -1,19 +1,19 @@
-<div align='center'>
-  <img src='_.gif' alt='reze' >
+<div align="center">
+  <img src='_.gif' alt="reze" />
 </div>
 
-## My Stack
-| Programming
-  * Java, JavaScript, TypeScript, Python( basic ), C ( basic ), Php
+### Tech Stack
 
-| Frontend Frameworks
-  * Tailwind, Bootstrap, React, Nextjs, SolidJs
-
-| Backend Frameworks
-  * Express, Springboot( basic ),Laravel
-
-| Databases
-  * MongoDB( basic ), MySql, Supabase
-
-| Tools
-  * Git, Postman, Figma, Gradle, Electon( basic )
+```text
+├── Languages
+│   ├── Java / JavaScript / TypeScript
+│   ├── PHP
+│   └── Python & C (Basic)
+│
+├── Frameworks
+│   ├── Frontend : React, Next.js, SolidJS, Tailwind, Bootstrap
+│   └── Backend  : Express, Laravel, Spring Boot (Basic)
+│
+├── Data & Tools
+│   ├── Database : MySQL, Supabase, MongoDB (Basic)
+│   └── Toolkit  : Git, Postman, Figma, Gradle, Electron (Basic)
