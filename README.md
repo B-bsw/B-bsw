@@ -2,7 +2,7 @@
   <img src='_.gif' alt="reze" />
 </div>
 
-### Tech Stack
+### ▷ Tech Stack
 
 ```text
 ├── Languages
@@ -17,3 +17,4 @@
 ├── Data & Tools
 │   ├── Database : MySQL, Supabase, MongoDB (Basic)
 │   └── Toolkit  : Git, Postman, Figma, Gradle, Electron (Basic)
+```
