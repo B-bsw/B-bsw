@@ -5,7 +5,7 @@
   </p>
 </div>
 
-### ▷ Tech Stack
+### Tech Stack
 
 ```text
 ├── Languages
