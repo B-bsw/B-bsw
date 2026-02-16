@@ -1,8 +1,10 @@
 <div align="center">
-  <img src='_.gif' alt="reze" />
-  <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=444444&center=true&vCenter=true&width=435&lines=Software+Developer;Hello+Reze" alt="Typing SVG" /></a>
-  </p>
+  <img src='_.gif' alt="reze" width=auto />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b-bsw/b-bsw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b-bsw/b-bsw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" width=auto src="https://raw.githubusercontent.com/b-bsw/b-bsw/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ### Tech Stack
