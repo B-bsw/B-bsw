@@ -1,10 +1,11 @@
 <div align="center">
-  <img src='_.gif' alt="reze" width=auto />
-  <picture>
+  <img src='_.gif' alt="reze" />
+  <img src='https://ssr-contributions-svg.vercel.app/_/b-bsw?chart=3dbar&gap=0.6&scale=3&flatten=1&animation=raise&animation_duration=0&animation_delay=0&format=svg&weeks=50&theme=green&widget_size=large&dark=true' alt="contribute" width=1000 height=200/>
+  <!-- <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b-bsw/b-bsw/output/pacman-contribution-graph-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b-bsw/b-bsw/output/pacman-contribution-graph.svg">
       <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/b-bsw/b-bsw/output/pacman-contribution-graph.svg">
-  </picture>
+  </picture> -->
 </div>
 
 ### Tech Stack
