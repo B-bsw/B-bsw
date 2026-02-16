@@ -10,10 +10,8 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - main
+    - master
     
-  
-
 jobs:
   generate:
     runs-on: ubuntu-latest
