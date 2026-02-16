@@ -1,18 +1,18 @@
-name: generate-snake-game-from-github-contribution-grid
+name: generate-snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # ทุก 12 ชม.
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3.3.0
         with:
           github_user_name: b-bsw
@@ -21,7 +21,7 @@ jobs:
             dist/light.svg?color_snake=#7845ab
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Push generated files
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
