@@ -11,15 +11,17 @@
 
 ```text
 ├── Languages
-│   ├── Java / JavaScript / TypeScript
-│   ├── PHP
-│   └── Python & C (Basic)
-│
+│   ├── Java / JavaScript / TypeScript / Php
+│   ├── Python, C (Basic)
+│   └── Markdown, HTML, CSS
+│ 
 ├── Frameworks
 │   ├── Frontend : React, Next.js, SolidJS, Tailwind, Bootstrap
-│   └── Backend  : Express, Laravel, Spring Boot (Basic)
-│
+│   ├── Backend  : Express, Laravel, Spring Boot (Basic)
+│   └── application : Electron (Basic), React Native (Basic)
+│ 
 ├── Data & Tools
-│   ├── Database : MySQL, Supabase, MongoDB (Basic)
-│   └── Toolkit  : Git, Postman, Figma, Gradle, Electron (Basic)
+│   ├── Database : MySQL,PostgreSQL,OracleSQL, Supabase, MongoDB (Basic)
+│   ├── Toolkit  : Git, Postman, Figma, Gradle,DB Manager Program,Docker
+|   └── OS : Ubuntu(for server), Macos, Windows
 ```
