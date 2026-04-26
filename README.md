@@ -3,7 +3,12 @@
     <img src='_.gif' alt="reze" />
   </td></tr></table>
   <kbd>
-    <img src='https://ssr-contributions-svg.vercel.app/_/b-bsw?chart=3dbar&gap=0.6&scale=3&flatten=1&animation=mess&animation_duration=3&animation_loop=true&format=svg&weeks=50&theme=green&dark=true' alt="contribute" width=1000 height=200/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/b-bsw?chart=3dbar&gap=1&scale=3&flatten=1&gradient=true&legend=false&legendPosition=bottomLeft&strokeWidth=0&strokeColor=222222&animation=mess&animation_duration=0&animation_loop=true&format=svg&weeks=50&theme=green&dark=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/b-bsw?chart=3dbar&gap=1&scale=3&flatten=1&gradient=true&legend=false&legendPosition=bottomLeft&strokeWidth=0&strokeColor=222222&animation=mess&animation_duration=0&animation_loop=true&format=svg&weeks=50&theme=green&dark=false">
+      <img alt="contribute" src="https://ssr-contributions-svg.vercel.app/_/b-bsw?chart=3dbar&gap=1&scale=3&flatten=1&gradient=true&legend=false&legendPosition=bottomLeft&strokeWidth=0&strokeColor=222222&animation=mess&animation_duration=0&animation_loop=true&format=svg&weeks=50&theme=green&dark=false" width=1000 height=200>
+    </picture>
+
   </kbd>
 </div>
 
