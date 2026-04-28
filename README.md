@@ -28,5 +28,5 @@
 ├── Data & Tools
 │   ├── Database : MySQL,PostgreSQL,OracleSQL, Supabase, MongoDB (Basic)
 │   ├── Toolkit  : Git, Postman, Figma, Gradle,DB Manager Program,Docker
-|   └── OS : Ubuntu(for server), Macos, Windows
+|   └── OS : Linux (Ubuntu server, Manjaro), Macos, Windows
 ```
