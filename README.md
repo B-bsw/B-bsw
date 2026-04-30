@@ -15,18 +15,21 @@
 ### Tech Stack
 
 ```text
+Skills/
 ├── Languages
-│   ├── Java / JavaScript / TypeScript / Php
-│   ├── Python, C (Basic)
-│   └── Markdown, HTML, CSS
-│ 
+│   ├── Core: Java, JavaScript, TypeScript, PHP
+│   ├── Basic: Python, C
+│   └── Web: HTML, CSS, Markdown
+│
 ├── Frameworks
-│   ├── Frontend : React, Next.js, SolidJS, Tailwind, Bootstrap
-│   ├── Backend  : Express, Laravel, Spring Boot (Basic)
-│   └── application : Electron (Basic), React Native (Basic)
-│ 
+│   ├── Frontend: React, Next.js, SolidJS, Tailwind, Bootstrap
+│   ├── Backend: Express, Laravel, Spring Boot
+│   └── Cross-Platform: Electron, React Native
+│
 ├── Data & Tools
-│   ├── Database : MySQL,PostgreSQL,OracleSQL, Supabase, MongoDB (Basic)
-│   ├── Toolkit  : Git, Postman, Figma, Gradle,DB Manager Program,Docker
-|   └── OS : Linux (Ubuntu server, Manjaro), Macos, Windows
+│   ├── Database: MySQL, PostgreSQL, Oracle SQL, Supabase, MongoDB
+│   └── Toolkit: Git, Docker, Postman, Figma, Gradle
+│
+└── OS
+    └── Linux (Ubuntu, Manjaro), macOS, Windows
 ```
