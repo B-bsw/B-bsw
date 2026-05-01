@@ -17,8 +17,8 @@
 ```text
 Skills/
 ├── Languages
-│   ├── Core: Java, JavaScript, TypeScript, PHP
-│   ├── Basic: Python, C
+│   ├── Core: Java, JavaScript, TypeScript
+│   ├── Basic: Python, C, Php
 │   └── Web: HTML, CSS, Markdown
 │
 ├── Frameworks
