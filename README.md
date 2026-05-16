@@ -1,6 +1,6 @@
 <div align="center">
   <table><tr><td>
-    <img src='eva-con.gif' alt="reze" width=980 />
+    <img src='eva-con.gif' alt="reze" />
   </td></tr></table>
   <kbd>
     <picture>
